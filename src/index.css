@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+.ntr-regular {
+    font-family: "NTR", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
