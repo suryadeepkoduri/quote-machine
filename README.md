@@ -1,4 +1,5 @@
-# Quote Machine
+![quote-machine](https://socialify.git.ci/suryadeepkoduri/quote-machine/image?font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+
 
 A simple web application that generates random quotes from popular Telugu movies. Built with **React**.
 
