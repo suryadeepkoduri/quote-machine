@@ -1,8 +1,33 @@
-# React + Vite
+# Quote Machine
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple web application that generates random quotes from popular Telugu movies. Built with **React**.
 
-Currently, two official plugins are available:
+## Features
+- 🎬 Randomly generates iconic quotes from Telugu movies.
+- 🔄 Refresh for a new quote.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo
+You can try the live version here: [**Quote Machine**](https://suryadeepkoduri.github.io/quote-machine/)
+
+## Installation & Running Locally
+If you want to run the project locally:
+
+```sh
+# Clone the repository
+git clone https://github.com/suryadeepkoduri/quote-machine.git
+cd quote-machine
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+```
+
+## Contributing
+If you want to add more Telugu movie quotes:
+
+1. **Fork** this repository.
+2. Add your quotes to the `quotes.json` file.
+3. Commit your changes with a meaningful message.
+4. Open a **Pull Request**.
